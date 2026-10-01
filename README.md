@@ -84,5 +84,5 @@ Pastimes is a web-based platform for buying and selling second-hand fashion item
 - Database export/import can be managed via phpMyAdmin.
   
 ##  Contact
-- Support: **ST10440580@rcconnect.edu.za and ST104405772**
-- Rosebank International South Africa
+- Support: tshepangramohapidevs@gmail.com
+
